@@ -7,4 +7,5 @@ organizations: []
 superuser: true
 status:
   icon: ☕️
+avatar_filename: doge.png
 ---
